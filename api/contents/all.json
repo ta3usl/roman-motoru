@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-11-19T14:41:56.776045Z",
+      "created": "2026-11-19T14:47:19.230754Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-11-19T14:41:56.776045Z",
+      "last_modified": "2026-11-19T14:47:19.230754Z",
       "mimetype": null,
       "name": "roman-motoru.ipynb",
       "path": "roman-motoru.ipynb",
@@ -16,11 +16,11 @@
     },
     {
       "content": null,
-      "created": "2026-11-19T14:41:56.785774Z",
+      "created": "2026-11-19T14:47:19.239047Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-11-19T14:41:56.785774Z",
+      "last_modified": "2026-11-19T14:47:19.239047Z",
       "mimetype": "text/plain",
       "name": "roman.txt",
       "path": "roman.txt",
@@ -29,11 +29,11 @@
       "writable": true
     }
   ],
-  "created": "2026-11-19T14:41:58.208623Z",
+  "created": "2026-11-19T14:47:20.687496Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-11-19T14:41:58.209240Z",
+  "last_modified": "2026-11-19T14:47:20.688107Z",
   "mimetype": null,
   "name": "",
   "path": "",
